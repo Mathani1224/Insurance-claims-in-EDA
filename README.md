@@ -1,0 +1,1 @@
+The Insurance Claims Exploratory Data Analysis (EDA) examines patterns in claim amounts, policyholder demographics, and risk factors. It helps identify trends, anomalies, and insights for better decision-making in the insurance sector.
